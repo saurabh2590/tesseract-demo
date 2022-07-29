@@ -1,4 +1,4 @@
-#Steps to run
+# Steps to run
 * npm install
 * node src/index.js [path_to_file]
 * eg.
